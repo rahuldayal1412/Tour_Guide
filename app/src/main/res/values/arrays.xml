@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_attraction_names">
+        <item>Lalbagh Botanical Garden</item>
+        <item>Bangalore Palace</item>
+        <item>Bannerghatta Biological Park</item>
+        <item>Bheemeshwari</item>
+        <item>Lumbini Gardens</item>
+        <item>Wonderla Bangalore</item>
+    </string-array>
+
+    <string-array name="list_attraction_addresses">
+        <item>Mavalli, Bengaluru, Karnataka 560004</item>
+        <item>Vasanth Nagar, Bengaluru, Karnataka 560052</item>
+        <item>Bannerghatta Rd, Bannerughatta, Bengaluru, Karnataka 560083</item>
+        <item>Meeting room in Bengaluru</item>
+        <item>Gate, Outer Ring Rd, Nagavara, Bengaluru, Karnataka 560045</item>
+        <item>28th Km, Mysore Road, Bengaluru, Karnataka 562109</item>
+    </string-array>
+
+    <string-array name="list_attraction_opening_hours">
+        <item>Opening hours: 6am–6pm</item>
+        <item>Opening hours: 10:30am–5:30pm</item>
+        <item>Opening hours: 9:30am–5pm</item>
+        <item>Opening hours: 7:00am-6pm</item>
+        <item>Opening hours: 11am–7pm</item>
+        <item>Opening hours: 11am–7pm</item>
+    </string-array>
+
+    <array name="list_attraction_images">
+        <item>@drawable/lalbagh_botanical_garden</item>
+        <item>@drawable/bangalore_palace</item>
+        <item>@drawable/bannerghatta_biological_park</item>
+        <item>@drawable/bheemeshwari</item>
+        <item>@drawable/lumbini_gardens</item>
+        <item>@drawable/wonderla </item>
+    </array>
+
+    <string-array name="list_event_names">
+        <item>Sunburn Goa 2019</item>
+        <item>Koi Load Nahi</item>
+        <item>Karunesh Talwar Live</item>
+        <item>Ind Vs Eng Match Screening</item>
+        <item>Boombox,Wedance - Ritmo, Blastoyz,Starling</item>
+        <item>The IT Guy – Sanjay Manaktala</item>
+    </string-array>
+
+    <string-array name="list_event_addresses">
+        <item>Vagator: Goa </item>
+        <item>Mother Tekla Auditorium: Bengaluru </item>
+        <item>Mother Tekla Auditorium: Bengaluru </item>
+        <item> The Taj West End: Bengaluru</item>
+        <item>High Ultra Lounge: Bengaluru </item>
+        <item> OO Heaven: Bengaluru </item>
+    </string-array>
+
+    <string-array name="list_event_opening_hours">
+        <item>27 Dec - 29 Dec 2019</item>
+        <item>Sat 20 Jul at 08:00 PM </item>
+        <item>06 Jul 19 Onwards</item>
+        <item>Today at 03:00 PM  </item>
+        <item>Today at 08:00 PM</item>
+        <item>Sun 21 Jul at 07:00 PM</item>
+    </string-array>
+
+    <array name="list_event_images">
+        <item>@drawable/sunburn_goa</item>
+        <item>@drawable/koi_load_nahi</item>
+        <item>@drawable/karunesh_talwar</item>
+        <item>@drawable/ind_vs_eng</item>
+        <item>@drawable/boombox_wedance</item>
+        <item>@drawable/theitguysanjaymanaktala</item>
+    </array>
+
+    <string-array name="list_accomodation_names">
+        <item>Hotel Chalukya Bangalore **</item>
+        <item>Ibis Bengaluru Hosur Road ***</item>
+        <item>The LaLiT Ashok Bangalore *****</item>
+        <item>The Signature Inn ***</item>
+        <item>Hotel Euphoria ***</item>
+        <item>Treebo El Cielo ***</item>
+    </string-array>
+
+    <string-array name="list_accomodation_addresses">
+        <item>44, Racecourse Road, Basaveshwara Circle, Bengaluru, Karnataka 560001</item>
+        <item>26/1, Hosur Rd, Beside Oxford College, Bommanahalli, Bengaluru, Karnataka </item>
+        <item>Kumarakrupa Rd, High Grounds, Seshadripuram, Bengaluru, Karnataka </item>
+        <item>479, O.T.C Road, Near Mastaan Dargah, Cottonpet, Bengaluru, Karnataka</item>
+        <item>No. 128/54/10 1st and 2nd floor,Bannerghatta Main Road,Bengaluru</item>
+        <item>7, 5th Cross Rd, Kaggadasapura, Subbaiyapalya, Banasawadi, Bengaluru</item>
+    </string-array>
+
+    <string-array name="list_accomodation_opening_hours">
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+    </string-array>
+
+    <array name="list_accomodation_images">
+        <item>@drawable/hotel_chalukya</item>
+        <item>@drawable/ibis_bengaluru</item>
+        <item>@drawable/the_lalit_ashok</item>
+        <item>@drawable/the_signature_inn</item>
+        <item>@drawable/hotel_euphoria</item>
+        <item>@drawable/treebo</item>
+    </array>
+
+    <string-array name="list_restaurant_names">
+        <item>Float Rooftop Lounge</item>
+        <item>M Cafe</item>
+        <item>The Fatty Bao</item>
+        <item>Citrus</item>
+        <item>Melange - Radisson Blu Bengaluru</item>
+        <item>Windmills Craftworks</item>
+    </string-array>
+
+    <string-array name="list_restaurant_addresses">
+        <item>3 Block 12 20/5, Marathahalli - Sarjapur Outer Ring Rd, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bengaluru, Karnataka 560087</item>
+        <item> Plot No 75, 8th Rd, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066</item>
+        <item>610, 12th A Main Road,7th Cross, HAL 2nd Stage,Indiranagar,Bengaluru</item>
+        <item>Lobby level, The Leela Palace Bengaluru,, 23, Old Airport Road, Bengaluru</item>
+        <item>90/4, Outer Ring Rd, Marathahalli Village, Marathahalli, Bengaluru, Karnataka 560037</item>
+        <item>No. 331, Next To L and T Infotech, 5B Rd, EPIP Zone, Whitefield, Bengaluru</item>
+    </string-array>
+
+    <string-array name="list_restaurant_opening_hours">
+        <item>Opening Hours: 12pm–12am</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: 12pm–11pm</item>
+        <item>Opening hours: 6:30am–1am</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: 11:30am–1am</item>
+    </string-array>
+
+    <array name="list_restaurant_images">
+        <item>@drawable/float_rooftop_lounge</item>
+        <item>@drawable/m_cafe</item>
+        <item>@drawable/the_fatty_bao</item>
+        <item>@drawable/citrus</item>
+        <item>@drawable/melange  </item>
+        <item>@drawable/windmills_craftworks</item>
+    </array>
+</resources>

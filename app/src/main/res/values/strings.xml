@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tour_Guide</string>
+    <string name="tour_guide_title">Bengaluru Guide</string>
+    <string name="attraction_fragment_title">Attractions</string>
+    <string name="restaurants_fragment_title">Restaurants</string>
+    <string name="accomodation_fragment_title">Accomodation</string>
+    <string name="events_fragment_title">Events</string>
+    <string name="title_activity_tab_layout">TabLayout</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
